@@ -1,0 +1,2 @@
+# SchoolNework_auto_login_selfuse
+自己找ai慢慢写慢慢改的，放源代码用，有很多bug尽量做了一点点适配
